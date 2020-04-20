@@ -5,3 +5,8 @@ Es el *comienzo* de un nuevo texto.
 - item
 - item
 - item
+
+### tabla
+| Nombre | Apellido | email |
+| ------ | -------- | ----- |
+| Manu | López | lopez@mail.com |
