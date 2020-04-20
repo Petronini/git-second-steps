@@ -9,4 +9,4 @@ Es el *comienzo* de un nuevo texto.
 ### tabla
 | Nombre | Apellido | email |
 | ------ | -------- | ----- |
-| Manu | López | lopez@mail.com |
+| Manu | García | garcia@mail.com |
